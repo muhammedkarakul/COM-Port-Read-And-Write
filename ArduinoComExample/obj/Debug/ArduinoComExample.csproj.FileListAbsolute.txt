@@ -1,0 +1,10 @@
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\bin\Debug\ArduinoComExample.exe.config
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\bin\Debug\ArduinoComExample.exe
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\bin\Debug\ArduinoComExample.pdb
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\obj\Debug\ArduinoComExample.csprojAssemblyReference.cache
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\obj\Debug\ArduinoComExample.Form1.resources
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\obj\Debug\ArduinoComExample.Properties.Resources.resources
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\obj\Debug\ArduinoComExample.csproj.GenerateResource.cache
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\obj\Debug\ArduinoComExample.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\obj\Debug\ArduinoComExample.exe
+C:\Users\Muhammed\source\repos\ArduinoComExample\ArduinoComExample\obj\Debug\ArduinoComExample.pdb
