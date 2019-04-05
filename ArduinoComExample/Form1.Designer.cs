@@ -98,9 +98,9 @@
             this.label5.AutoSize = true;
             this.label5.Location = new System.Drawing.Point(11, 794);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(119, 20);
+            this.label5.Size = new System.Drawing.Size(123, 20);
             this.label5.TabIndex = 10;
-            this.label5.Text = "Data to be sent";
+            this.label5.Text = "Data to be send";
             // 
             // recivedDataLabel
             // 
